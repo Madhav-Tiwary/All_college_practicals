@@ -29,22 +29,6 @@ int main()
         printf(" Mehnat karo bhagwan tumhare sath hai");
 
         break;
-    case 6:
-        printf(" Mehnat karo bhagwan tumhare sath hai");
-
-        break;
-    case 7:
-        printf(" Mehnat karo bhagwan tumhare sath hai");
-
-        break;
-    case 8:
-        printf(" Mehnat karo bhagwan tumhare sath hai");
-
-        break;
-    case 9:
-        printf(" Mehnat karo bhagwan tumhare sath hai");
-
-        break;
     }
 
     return 0;
