@@ -1,16 +1,18 @@
-#include <stdio.h>
-int main()
-{
-    int num1 = 0, num2 = 0, num3, i, num;
-    printf("Enter number till you find febonacci series :");
-    scanf("%d", &num);
-    printf("%d %d ", num1, num2);
-    for (i = 2; i <= num; i++)
-    {
-        num3 = num1 + num2;
-        printf("%d", num3);
-        num1 = num2;
-        num2 = num3;
-    }
-    return 0;
-}
+// see the fibonacci series program in c without recursion.
+
+#include<stdio.h>    
+int main()    
+{    
+ int n1=0,n2=1,n3,i,number;    
+ printf("Enter the number of elements:");    
+ scanf("%d",&number);    
+ printf("\n%d %d",n1,n2);//printing 0 and 1    
+ for(i=2;i<number;++i)//loop starts from 2 because 0 and 1 are already printed    
+ {    
+  n3=n1+n2;    
+  printf(" %d",n3);    
+  n1=n2;    
+  n2=n3;    
+ }  
+  return 0;  
+ }   
