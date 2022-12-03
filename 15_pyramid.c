@@ -1,18 +1,24 @@
 #include <stdio.h>
-int main()
+#include <conio.h>
+void main()
 {
-    int i, j, k,n=5;
-    for (i = 1; i <=5; i++)
+
+    int i, j, rows, k = 0;
+    printf(" Enter a number to define the rows: \n");
+    scanf("%d", &rows);
+
+    for (i = 1; i <= rows; i++)
     {
-        for (j = n; j >5; j--)
+        for (j = 1; j <= rows - i; j++)
         {
-            for (k = 1; k <= i; k++)
-            {
-                printf("* "); 
-            }
-        
+            printf("  ");
+        }
+        // use for loop where k is less than equal to (2 * i -1)
+        for (k = 1; k <= (2 * i - 1); k++)
+        {
+            printf("* "); // print the Star
         }
         printf("\n");
     }
-    return 0;
+    getch();
 }
