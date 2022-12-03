@@ -25,8 +25,7 @@ int main()
         printf(" Mehnat karo bhagwan tumhare sath hai");
 
         break;
-    case 5:
-        printf(" Mehnat karo bhagwan tumhare sath hai");
+   
 
         break;
     }
