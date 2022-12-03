@@ -9,49 +9,40 @@ int main()
     case 1:
 
         printf(" Mehnat karo bhagwan tumhare sath hai");
-        printf(" OR THODA KAM HILAYA KARO BSDK ");
 
         break;
 
     case 2:
-          printf(" Mehnat karo bhagwan tumhare sath hai");
-        printf(" OR THODA KAM GALIYA DIYA KARO BSDK ");
+        printf(" Mehnat karo bhagwan tumhare sath hai");
 
         break;
 
     case 3:
-          printf(" Mehnat karo bhagwan tumhare sath hai");
-        printf(" OR DAILY NAHAYA KARO BSDK ");
+        printf(" Mehnat karo bhagwan tumhare sath hai");
 
         break;
     case 4:
-          printf(" Mehnat karo bhagwan tumhare sath hai");
-        printf(" OR THODA KAM TADA  KARO LADKIYO  BSDK ");
+        printf(" Mehnat karo bhagwan tumhare sath hai");
 
         break;
     case 5:
-          printf(" Mehnat karo bhagwan tumhare sath hai");
-        printf(" OR THODA YOU TUBE KAM CHALAYA KARO BSDK ");
+        printf(" Mehnat karo bhagwan tumhare sath hai");
 
         break;
     case 6:
-          printf(" Mehnat karo bhagwan tumhare sath hai");
-        printf(" OR REEL KAM DHEKHA KARO BSDK ");
+        printf(" Mehnat karo bhagwan tumhare sath hai");
 
         break;
     case 7:
-          printf(" Mehnat karo bhagwan tumhare sath hai");
-        printf(" OR THODA KAM SOYA KARO BSDK ");
+        printf(" Mehnat karo bhagwan tumhare sath hai");
 
         break;
     case 8:
-          printf(" Mehnat karo bhagwan tumhare sath hai");
-        printf(" OR THODA KAM SOYA KARO BSDK ");
+        printf(" Mehnat karo bhagwan tumhare sath hai");
 
         break;
     case 9:
-          printf(" Mehnat karo bhagwan tumhare sath hai");
-        printf(" OR THODA KAM SOYA KARO BSDK ");
+        printf(" Mehnat karo bhagwan tumhare sath hai");
 
         break;
     }
