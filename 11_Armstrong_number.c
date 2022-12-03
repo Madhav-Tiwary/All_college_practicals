@@ -13,11 +13,11 @@ int main()
     }
     if (temp == sum)
     {
-        printf("Armstrong number");
+        printf("Armstrong Number");
     }
     else
     {
-        printf("Not a armstrong number");
+        printf("Not a armstrong Number");
     }
     return 0;
 }
